@@ -8,5 +8,6 @@ setup(
     license='',
     author='tooMofuu0216',
     author_email='bubi9101@gmail.com',
-    description='Basic-LSB-Steganograph-Project'
+    description='Basic-LSB-Steganograph-Project',
+    install_requires=['opencv-python']
 )
