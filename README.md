@@ -30,6 +30,7 @@ s_stegano.extract('resource/Pack#2_Kit 1_Groove 1_180BPM'+'_out.wav')
 Reference Link:\
 (Audio):\
 https://sumit-arora.medium.com/audio-steganography-the-art-of-hiding-secrets-within-earshot-part-2-of-2-c76b1be719b3
+\
 (Image):\
 https://github.com/rroy1212/Image_Steganography/blob/master/ImageSteganography.ipynb
 
