@@ -1,6 +1,6 @@
 # Basic-LSB-Steganograph-Project
 
-I **DO NOT** claim any of the idea comes entirely from me\
+I **DO NOT** claim any of the ideas come entirely from me\
 Trying to implement Basic Steganograph for **image** and **sound** file (wav only) using LSB algorithm with other's idea
 
 ## Image Steganograph (class SteganoImg)
